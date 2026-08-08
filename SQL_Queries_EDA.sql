@@ -1,4 +1,7 @@
+--to check metadata about the tables and columns
 SELECT * FROM INFORMATION_SCHEMA.TABLES;
+
+SELECT * FROM INFORMATION_SCHEMA.COLUMNS;
 
 --explore countries our customers come from
 
